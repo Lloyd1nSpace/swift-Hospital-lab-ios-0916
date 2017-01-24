@@ -81,7 +81,4 @@ extension Teach {
     }
 }
 
-
-
-
-
+protocol Employee: Payable, TimeOff { }
